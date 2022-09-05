@@ -1,2 +1,2 @@
 alert('HELLO THERE!!!');
-alert('test 2');
+alert('TEST: click agian to continue');
